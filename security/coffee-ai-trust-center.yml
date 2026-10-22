@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: searched
+probe: true
+source: https://www.coffee.ai/security
+url: https://www.coffee.ai/security
+certifications:
+- SOC 2
+- HIPAA
+- GDPR
+evidence:
+- source: https://www.coffee.ai/security
+  keywords:
+  - soc 2
+  - hipaa
+  - compliance certification
+  - gdpr

@@ -1,0 +1,127 @@
+{
+    "id": "www-coffee-ai",
+    "name": "Coffee Blog",
+    "description": "Coffee Blog",
+    "version": "4.34.0",
+    "url": "https://www.coffee.ai/articles/wp-json/ai-growth-seo/v1/a2a",
+    "baseUrl": "https://www.coffee.ai/articles/wp-json/ai-growth-seo/v1/a2a",
+    "protocolVersion": "0.3.0",
+    "preferredTransport": "JSONRPC",
+    "provider": {
+        "name": "AI Growth Agent",
+        "url": "https://aigrowthagent.co"
+    },
+    "capabilities": {
+        "streaming": false,
+        "pushNotifications": false,
+        "extendedAgentCard": false
+    },
+    "interfaces": [
+        {
+            "type": "jsonrpc",
+            "version": "2.0"
+        }
+    ],
+    "securitySchemes": {},
+    "security": [],
+    "defaultInputModes": [
+        "text/plain"
+    ],
+    "defaultOutputModes": [
+        "application/json"
+    ],
+    "skills": [
+        {
+            "id": "discover_content",
+            "name": "Discover content",
+            "description": "List published posts and pages with titles, URLs, excerpts, and SEO metadata; pass an optional search_query to filter by topic.",
+            "tags": [
+                "content",
+                "discovery",
+                "wordpress"
+            ],
+            "examples": [
+                "What posts do you have about SEO?",
+                "List recent articles"
+            ],
+            "inputModes": [
+                "text/plain"
+            ],
+            "outputModes": [
+                "application/json"
+            ]
+        },
+        {
+            "id": "get_content",
+            "name": "Get content by ID or URL",
+            "description": "Retrieve the full structured content, metadata, and SEO fields for a specific post or page by its WordPress ID.",
+            "tags": [
+                "content"
+            ],
+            "examples": [
+                "Get post 42",
+                "Fetch https://site.com/some-article"
+            ],
+            "inputModes": [
+                "text/plain"
+            ],
+            "outputModes": [
+                "application/json"
+            ]
+        },
+        {
+            "id": "analyze_seo",
+            "name": "Analyze SEO of a post",
+            "description": "Return the SEO score breakdown — keyword usage, meta tags, readability, and structured-data coverage — for a given post.",
+            "tags": [
+                "seo",
+                "analysis"
+            ],
+            "examples": [
+                "Analyze SEO of post 42"
+            ],
+            "inputModes": [
+                "text/plain"
+            ],
+            "outputModes": [
+                "application/json"
+            ]
+        },
+        {
+            "id": "get_seo_recommendations",
+            "name": "SEO recommendations",
+            "description": "Return prioritised, actionable SEO improvements for a specific post, including missing tags, keyword gaps, and schema suggestions.",
+            "tags": [
+                "seo",
+                "recommendations"
+            ],
+            "examples": [
+                "What can I improve in post 42?"
+            ],
+            "inputModes": [
+                "text/plain"
+            ],
+            "outputModes": [
+                "application/json"
+            ]
+        },
+        {
+            "id": "auto_discover_brand",
+            "name": "Auto-discover brand metadata",
+            "description": "Return brand and site metadata: name, description, logo, sitemap URL, and llms.txt URL.",
+            "tags": [
+                "brand",
+                "discovery"
+            ],
+            "examples": [
+                "What is this site about?"
+            ],
+            "inputModes": [
+                "text/plain"
+            ],
+            "outputModes": [
+                "application/json"
+            ]
+        }
+    ]
+}

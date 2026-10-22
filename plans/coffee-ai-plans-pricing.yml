@@ -1,0 +1,31 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.coffee.ai/pricing
+sources:
+- https://www.coffee.ai/pricing
+- https://help.coffee.ai/en/articles/9757042-pricing-and-billing.md
+- https://help.coffee.ai/en/articles/13025878-how-to-change-your-subscription-plan.md
+name: Coffee pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Grande
+  price_text: $50 per person per month
+  price: 50
+  billing_period: monthly
+  description: Up to 5 creator seats, Up to 50,000 records, Email & calendar integration, Automatic data enrichment, Meeting recorder (desktop
+    or cloud), Call Intelligence, Pipeline Intelligence, Ask Coffee, Workspace integrations, HubSpot or Salesforce sync, ChatGPT, Claude support,
+    Slack notifications, MCP interface
+- name: Venti
+  price_text: $1,000 per workspace per month
+  price: 1000
+  billing_period: monthly
+  description: 'All the features of Grande, plus: 20 creator seats, Up to 250,000 records, Unlimited read‑only seats, Visitor ID, Lead Finder,
+    Campaigns, API access, Private Slack channel, Dedicated CSM'
+- name: Trenta
+  price_text: $2,000 per workspace per month, billed annually
+  price: 2000
+  billing_period: annual
+  description: 'All the features of Venti, plus: 50 creator seats, Up to 750,000 records, Unlimited read‑only seats'
+docs: https://www.coffee.ai/pricing

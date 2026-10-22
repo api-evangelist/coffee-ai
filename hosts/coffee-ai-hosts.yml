@@ -1,0 +1,115 @@
+generated: '2026-10-22'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 8
+  own: 8
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - docs
+  - marketing
+  - other
+  - status
+  - website
+hosts:
+- host: api.coffee.ai
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: coffee.ai
+  role: api
+  relation: own
+- host: app.coffee.ai
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: coffee.ai
+  role: other
+  relation: own
+- host: blog.coffee.ai
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: coffee.ai
+  role: marketing
+  relation: own
+- host: coffee.ai
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: coffee.ai
+  role: other
+  relation: own
+- host: fresh.coffee.ai
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: coffee.ai
+  role: other
+  relation: own
+- host: help.coffee.ai
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types:
+  - GettingStarted
+  serves:
+  - docs
+  registrable_domain: coffee.ai
+  role: docs
+  relation: own
+- host: status.coffee.ai
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: coffee.ai
+  role: status
+  relation: own
+- host: www.coffee.ai
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Compliance
+  - Security
+  - Website
+  - Documentation
+  - Pricing
+  - TermsOfService
+  - PrivacyPolicy
+  - Support
+  - Blog
+  serves:
+  - hosting
+  vendor: vercel
+  registrable_domain: coffee.ai
+  role: website
+  relation: own

@@ -1,0 +1,7 @@
+generated: '2026-10-22'
+method: derived
+source: https://www.coffee.ai/docs
+idempotency: none
+deployment:
+  mode: none
+  verified: derived

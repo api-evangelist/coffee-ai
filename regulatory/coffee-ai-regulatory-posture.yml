@@ -1,0 +1,35 @@
+generated: '2026-10-22'
+method: probed
+source: https://www.coffee.ai/privacy-policy
+signals:
+  data_subject_request:
+    evidence:
+      - source: https://www.coffee.ai/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "You may have the right to: Confirm Whether We Are Processing Your Personal Information; Request Access to or Portability of Your Personal Information; Request Correction of Your Personal Information; Request Deletion of Your Personal Information; Request Restriction of or Object to our Processing of Your Personal Information; Withdraw Your Consent to our Processing of Your Personal Information."
+        note: Provides data subject rights and mechanisms for access, correction, deletion, portability and objection.
+  incident_notification:
+    evidence:
+      - source: https://www.coffee.ai/privacy-policy
+        http_status: 200
+        quote: "In the event of a data breach, we have a structured incident response plan, including notification procedures to affected users and regulatory authorities when required."
+        note: Describes incident response and notification obligations.
+  data_residency:
+    evidence:
+      - source: https://www.coffee.ai/privacy-policy
+        http_status: 200
+        quote: "All personal information processed by us may be transferred, processed, and stored anywhere in the world, including, but not limited to, the United States or other countries, which may have data protection laws that are different from the laws where you live."
+        note: States that data may be stored internationally.
+  data_retention:
+    evidence:
+      - source: https://www.coffee.ai/privacy-policy
+        http_status: 200
+        quote: "We store the personal information we collect as described in this Privacy Policy for as long as you use the Services, or as necessary to fulfill the purpose(s) for which it was collected... When personal information is no longer required for these purposes, we securely delete or anonymize it using industry-standard methods."
+        note: Outlines retention period and deletion practices.
+  ai_transparency:
+    evidence:
+      - source: https://www.coffee.ai/privacy-policy
+        http_status: 200
+        quote: "We do not use any Google Workspace Information to develop, improve, or train generalized artificial intelligence (AI) or machine learning (ML) models."
+        note: Explicitly states that collected data is not used for AI model training.

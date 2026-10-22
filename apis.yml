@@ -1,25 +1,90 @@
 aid: coffee-ai
+
 name: Coffee
-description: 'Coffee is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by greylock) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://www.coffee.ai/og-image.jpg
+
+description: 'Coffee is an AI-powered CRM platform that helps sales teams automate data entry, pipeline intelligence, and meeting insights. By integrating with major CRMs like Salesforce and HubSpot, Coffee reduces manual effort, improves data quality, and boosts revenue. The service offers AI agents for lead generation, automatic data entry, and real‑time pipeline analytics, targeting sales organizations seeking to streamline workflows and increase productivity.'
+
 url: https://raw.githubusercontent.com/api-evangelist/coffee-ai/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-22'
+
 modified: '2026-10-22'
+
 tags:
 - Company
-apis: []
+- AI
+- CRM
+- Sales
+- Automation
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- greylock
+
 common:
+- type: Plans
+  url: plans/coffee-ai-plans-pricing.yml
+- type: Compliance
+  url: https://www.coffee.ai/security
+- type: LLMsTxt
+  url: llms/coffee-ai-llms.txt
+- type: AgentCard
+  url: a2a/coffee-ai-a2a.yml
+- type: SecurityTxt
+  url: well-known/coffee-ai-help-security.txt
+- type: WellKnown
+  url: well-known/coffee-ai-well-known.yml
+- type: Hosts
+  url: hosts/coffee-ai-hosts.yml
+- type: Vendors
+  url: vendors/coffee-ai-vendors.yml
+- type: SDKs
+  url: packages/coffee-ai-packages.yml
+- type: Packages
+  url: packages/coffee-ai-packages.yml
+- type: Security
+  url: https://www.coffee.ai/security
+- type: GettingStarted
+  url: https://help.coffee.ai/en/articles/11891330-getting-started-with-your-coffee-account
+- type: TrustCenter
+  url: security/coffee-ai-trust-center.yml
+- type: DomainSecurity
+  url: security/coffee-ai-domain-security.yml
 - type: Website
   url: https://www.coffee.ai/
+- type: Documentation
+  url: https://www.coffee.ai/docs
+- type: Pricing
+  url: https://www.coffee.ai/pricing
+- type: TermsOfService
+  url: https://www.coffee.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.coffee.ai/privacy-policy
+- type: Support
+  url: https://www.coffee.ai/support
+- type: Blog
+  url: https://www.coffee.ai/blog
+
+apis: []
+
+x-backed-by:
+- greylock
+x-enrichment:
+  date: '2026-10-22'
+  status: enriched
+  artifacts_added: 17
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

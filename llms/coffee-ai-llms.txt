@@ -1,0 +1,143 @@
+# Coffee Help Center
+
+> How can we help?
+
+## Getting Started
+
+- [Getting Started with your Coffee Account](https://help.coffee.ai/en/articles/11891330-getting-started-with-your-coffee-account.md): Here’s a step-by-step guide to help you onboard into Coffee and get started smoothly.
+- [Exploring your Today page](https://help.coffee.ai/en/articles/11976368-exploring-your-today-page.md): Learn how to manage your daily schedule, access AI meeting briefings and summaries, and track tasks on your Coffee Today page.
+- [Inviting your team to Coffee](https://help.coffee.ai/en/articles/11976459-inviting-your-team-to-coffee.md): Invite your team to Coffee and start collaborating in one place
+- [Setting up your Coffee Account \(member\)](https://help.coffee.ai/en/articles/12073817-setting-up-your-coffee-account-member.md): Learn how to set up your Coffee profile as a member and sync your accounts for automatic contact and meeting updates.
+- [Connecting your Google Workspace or Microsoft 365 account](https://help.coffee.ai/en/articles/14048049-connecting-your-google-workspace-or-microsoft-365-account.md): Sync your Google Workspace or Microsoft 365 account with Coffee to automatically create contacts and companies and track emails and meetings.
+
+## Companies and People
+
+- [Adding a company](https://help.coffee.ai/en/articles/11976181-adding-a-company.md): Explore the different ways to add company records to Coffee.
+- [Adding People](https://help.coffee.ai/en/articles/11390628-adding-people.md): Explore the different ways to add person records to Coffee.
+- [Editing or managing a company profile](https://help.coffee.ai/en/articles/11995701-editing-or-managing-a-company-profile.md): How to edit a company in Coffee
+- [Managing the Companies view](https://help.coffee.ai/en/articles/12015325-managing-the-companies-view.md): Manage your company list view to match your preferred sorting, ordering and naming
+- [Editing a person's profile](https://help.coffee.ai/en/articles/12055776-editing-a-person-s-profile.md): How to edit a person's profile in Coffee
+- [Deleting a company](https://help.coffee.ai/en/articles/11998172-deleting-a-company.md): How to delete a company from Coffee
+- [Creating company or people lists](https://help.coffee.ai/en/articles/12025708-creating-company-or-people-lists.md): Create lists for you and your team.
+- [Renaming a list](https://help.coffee.ai/en/articles/12053963-renaming-a-list.md): Change a list's name to keep your companies, people and deals visually organized
+- [Deleting a list](https://help.coffee.ai/en/articles/12053099-deleting-a-list.md): Delete one of the lists of people, companies or deals you've previously created
+- [View emails exchanged with a company or person](https://help.coffee.ai/en/articles/12055037-view-emails-exchanged-with-a-company-or-person.md): You can easily see all email exchanges connected to a company in one place
+- [Company fields in Coffee](https://help.coffee.ai/en/articles/12133211-company-fields-in-coffee.md): See what company fields are standard in Coffee as well as those synced from HubSpot or Salesforce
+- [People fields in Coffee](https://help.coffee.ai/en/articles/12162386-people-fields-in-coffee.md): Learn about the standard people fields in Coffee and how they map to HubSpot and Salesforce
+- [Filtering companies](https://help.coffee.ai/en/articles/12176740-filtering-companies.md): Quickly narrow down your company list by using manual filters or AI filters
+- [Filtering people](https://help.coffee.ai/en/articles/12176765-filtering-people.md): Quickly narrow down your people list by using manual filters or AI filters.
+- [Merging companies or contacts](https://help.coffee.ai/en/articles/12688879-merging-companies-or-contacts.md): You can merge company or person records to keep things organized
+- [Associating a company with other companies](https://help.coffee.ai/en/articles/12688949-associating-a-company-with-other-companies.md): Learn how to associate a company with others in Coffee to better manage related business entities and organization structures.
+- [Sending emails to multiple recipients](https://help.coffee.ai/en/articles/14491401-sending-emails-to-multiple-recipients.md): Learn how to send emails to multiple people at once in Coffee using templates or custom messages to streamline your outreach.
+- [Deleting a person](https://help.coffee.ai/en/articles/14643928-deleting-a-person.md): How to delete a person from Coffee
+- [Sending an email](https://help.coffee.ai/en/articles/14644137-sending-an-email.md): Learn how to send individual emails in Coffee using AI-drafted messages, templates, or custom text from your contact list.
+- [Adding files to a company or person record](https://help.coffee.ai/en/articles/14656010-adding-files-to-a-company-or-person-record.md): Learn how to upload and manage documents within your company or person records.
+- [Creating and managing campaigns](https://help.coffee.ai/en/articles/15415982-creating-and-managing-campaigns.md): Build and send multi-step email sequences to contact lists
+
+## Deals and Pipelines
+
+- [Adding Deals to Coffee](https://help.coffee.ai/en/articles/12073808-adding-deals-to-coffee.md): Explore the different ways to add person records to Coffee.
+- [Cloning a deal](https://help.coffee.ai/en/articles/16558354-cloning-a-deal.md): Duplicate a deal into a different pipeline and stage without losing your original record.
+- [Sorting and ordering Deals](https://help.coffee.ai/en/articles/12104000-sorting-and-ordering-deals.md): Learn how to sort, rename, hide, and reorder deal columns in Coffee to customize your view and match your workflow.
+- [Switching deal views](https://help.coffee.ai/en/articles/12104065-switching-deal-views.md): Learn how to switch between Grid and Kanban views in deals to effectively track progress and manage your deal stages.
+- [Managing deal stages](https://help.coffee.ai/en/articles/12104080-managing-deal-stages.md): Learn how to manage deal stages in Coffee, including tracking revenue, forecasting, and customizing stage names, probability, and colors.
+- [Deleting a deal](https://help.coffee.ai/en/articles/12073878-deleting-a-deal.md): Learn how to permanently remove single or multiple deals from your Coffee workspace using the right-click menu or bulk actions.
+- [Comparing Pipeline Snapshots](https://help.coffee.ai/en/articles/12104157-comparing-pipeline-snapshots.md): Track deal changes over time.
+- [Assigning deal owners](https://help.coffee.ai/en/articles/12119771-assigning-deal-owners.md): Learn how to assign or update deal owners in Coffee, whether you are creating a new deal or reassigning an existing one.
+- [Deal fields in Coffee](https://help.coffee.ai/en/articles/12162563-deal-fields-in-coffee.md): Map what standard and custom fields sync between Coffee and Salesforce or HubSpot
+- [Creating deal lists](https://help.coffee.ai/en/articles/12281930-creating-deal-lists.md): Organize your pipeline by creating static or dynamic deal lists to track manually selected groups or automatically filtered deals.
+- [Filtering deals](https://help.coffee.ai/en/articles/12281972-filtering-deals.md): Learn how to use AI or manual filters to organize your deals
+- [Adding multiple Deal pipelines](https://help.coffee.ai/en/articles/12514905-adding-multiple-deal-pipelines.md): Create and manage multiple pipelines to track different customer processes separately.
+- [Customizing new deal fields](https://help.coffee.ai/en/articles/13492864-customizing-new-deal-fields.md): Choose which fields appear when users create a new deal.
+- [Changing your currency](https://help.coffee.ai/en/articles/14323239-changing-your-currency.md): Learn how to change your currency settings in Coffee. Updates apply instantly to your currency symbols without converting existing values.
+- [Adding files to a deal](https://help.coffee.ai/en/articles/14656082-adding-files-to-a-deal.md): Learn how to upload and manage documents within your deals
+
+## Meetings, Notes and Tasks
+
+- [Adding notes to a company, person, or deal](https://help.coffee.ai/en/articles/12384304-adding-notes-to-a-company-person-or-deal.md): Learn how to add and view notes for companies, people, or deals using shortcuts, the global menu, or the Meetings and Notes page.
+- [Sharing a meeting summary, recording, and notes](https://help.coffee.ai/en/articles/15674748-sharing-a-meeting-summary-recording-and-notes.md): Share a link to any Coffee meeting — including the summary, recording, and notes — with anyone inside or outside your workspace.
+- [Customizing your recorder](https://help.coffee.ai/en/articles/16262533-customizing-your-recorder.md): Set your recorder's display name and choose its appearance for meeting participants.
+- [Using multiple languages in the same meeting](https://help.coffee.ai/en/articles/17189326-using-multiple-languages-in-the-same-meeting.md): Turn on multi-language transcription in the Coffee desktop app for meetings that mix languages.
+- [Creating tasks in Coffee](https://help.coffee.ai/en/articles/12282136-creating-tasks-in-coffee.md): Learn how to create and manage tasks in Coffee, including manual setup, automated meeting tasks, and tracking progress.
+- [Sorting and filtering tasks](https://help.coffee.ai/en/articles/12344571-sorting-and-filtering-tasks.md): Learn how to sort and filter tasks by due date, priority, or owner, and manage task visibility using status filters in Coffee
+- [Meeting Summaries](https://help.coffee.ai/en/articles/12282071-meeting-summaries.md): Access AI-generated meeting notes, summaries, recordings, transcripts, and follow-up email drafts in Coffee to stay on top of your action items.
+- [Joining Meetings](https://help.coffee.ai/en/articles/12402204-joining-meetings.md): Learn how to join meetings in Coffee via the web or desktop app, manage recordings, and access AI-generated meeting briefings
+- [Taking notes during meetings](https://help.coffee.ai/en/articles/12402507-taking-notes-during-meetings.md): Take manual notes in addition to Coffee's automated AI notes
+- [Setting a task's priority](https://help.coffee.ai/en/articles/12341709-setting-a-task-s-priority.md): Learn how to assign and update task priorities to stay organized and focus on what matters most in your Coffee workspace.
+- [Removing the recording bot from meetings](https://help.coffee.ai/en/articles/11994131-removing-the-recording-bot-from-meetings.md): Learn how to remove the Coffee bot from Zoom, Google Meet, or Microsoft Teams meetings, or manage recording settings for future calls.
+- [Using and editing custom briefing and summary templates](https://help.coffee.ai/en/articles/12962258-using-and-editing-custom-briefing-and-summary-templates.md): Learn how to manage AI summary and briefing templates in Coffee to match your specific sales methodologies and meeting workflows.
+- [Ways to record meetings using Coffee](https://help.coffee.ai/en/articles/13576090-ways-to-record-meetings-using-coffee.md): Learn how to record meetings via the web app, desktop app, or third-party tools, and how recording behavior changes based on your actions.
+- [Setting default recording and note-taking preferences](https://help.coffee.ai/en/articles/14047735-setting-default-recording-and-note-taking-preferences.md): Learn how to manage your call recorder settings and note-taking preferences in Coffee.
+- [Integrating Gong and Coffee](https://help.coffee.ai/en/articles/14690695-integrating-gong-and-coffee.md): Use Gong as your call recorder in Coffee
+- [Downloading the Coffee desktop app for Mac](https://help.coffee.ai/en/articles/13371170-downloading-the-coffee-desktop-app-for-mac.md): Download, pair, and use the Coffee desktop app to record meetings and keep them synced with your Coffee account on a Mac.
+- [Downloading the Coffee desktop app for Windows](https://help.coffee.ai/en/articles/14433894-downloading-the-coffee-desktop-app-for-windows.md): Download, pair, and use the Coffee desktop app to record meetings and keep them synced with your Coffee account on a Windows device.
+- [Granting permissions to the Coffee desktop app \(macOS\)](https://help.coffee.ai/en/articles/13371082-granting-permissions-to-the-coffee-desktop-app-macos.md): How to enable microphone, accessibility, and screen recording permissions when you first open the Coffee desktop app on macOS.
+
+## Prospecting and Lead Gen
+
+- [Using the Lead Finder to find new companies or contacts](https://help.coffee.ai/en/articles/12543513-using-the-lead-finder-to-find-new-companies-or-contacts.md): Build targeted lists using Coffee’s database to power your outreach or research.
+- [Capturing website form submissions with Coffee's Website Forms](https://help.coffee.ai/en/articles/16764126-capturing-website-form-submissions-with-coffee-s-website-forms.md): Detect forms on your website, map their fields to Coffee, and route submissions to lists and notifications.
+- [Tracking your website visitors using Coffee's Visitor ID](https://help.coffee.ai/en/articles/14660484-tracking-your-website-visitors-using-coffee-s-visitor-id.md): Learn how to install Coffee's Visitor ID to identify companies and people visiting your site, receive alerts, and manage leads.
+
+## AI in Coffee
+
+- [Customize your workspace with Coffee Intelligence](https://help.coffee.ai/en/articles/13833175-customize-your-workspace-with-coffee-intelligence.md): Add your company knowledge to Coffee Intelligence so AI suggestions stay relevant and accurate across meetings, emails, and deals.
+- [Building custom AI agents](https://help.coffee.ai/en/articles/16764453-building-custom-ai-agents.md): Automate deal, pipeline, and prospect workflows with a pre-made starter agent or one you build yourself in plain language.
+- [Agent triggers and schedules](https://help.coffee.ai/en/articles/17060341-agent-triggers-and-schedules.md): Choose when a Coffee agent runs: on an event like a deal stage change, or on a schedule like every weekday at 9am.
+- [Testing an agent before you turn it on](https://help.coffee.ai/en/articles/17060342-testing-an-agent-before-you-turn-it-on.md): Use Test to run an agent on your real Coffee data before you create it. Nothing is sent, posted, or changed.
+- [What agents can read and do](https://help.coffee.ai/en/articles/17060728-what-agents-can-read-and-do.md): See the data an agent can access and the actions it can take, from Slack messages to safety rails that protect your records.
+- [Starter agents by role](https://help.coffee.ai/en/articles/17060763-starter-agents-by-role.md): Browse Coffee's pre-built starter agents for Sales, Customer Success, and Marketing, with their default triggers and what each one does.
+- [Troubleshooting agents](https://help.coffee.ai/en/articles/17141423-troubleshooting-agents.md): Fix common agent problems in Coffee: no Slack post, no email, a missed trigger, a partial run, or a missing starter.
+- [Building and using reports in Coffee](https://help.coffee.ai/en/articles/17339198-building-and-using-reports-in-coffee.md): Build a report from a plain-English description or open a ready-made template, then filter, refine, share, and schedule it.
+- [Reviewing AI credits’ usage](https://help.coffee.ai/en/articles/14656605-reviewing-ai-credits-usage.md): Track your Coffee credit usage, see which activities consume credits, and understand how credits differ from agents you build on the Agents page.
+- [Creating and using AI fields](https://help.coffee.ai/en/articles/13142340-creating-and-using-ai-fields.md): Add AI-powered fields to people, companies, or deals to automatically research and enrich your data
+- [Creating and updating records with AI using 'Ask Coffee'](https://help.coffee.ai/en/articles/14660419-creating-and-updating-records-with-ai-using-ask-coffee.md): Learn how to create and update CRM records like deals and contacts directly within Ask Coffee using natural language commands.
+- [Using Coffee AI to answer your questions](https://help.coffee.ai/en/articles/14188930-using-coffee-ai-to-answer-your-questions.md): Use Coffee AI to ask questions about your deals and meetings using natural language.
+
+## Integrations
+
+- [Integrating Coffee with Granola](https://help.coffee.ai/en/articles/15892495-integrating-coffee-with-granola.md): Connect Granola to automatically import your meeting transcripts and AI summaries into Coffee for processing.
+- [Connecting external MCP servers to Coffee](https://help.coffee.ai/en/articles/17180211-connecting-external-mcp-servers-to-coffee.md): Connect any MCP-compatible service to Coffee's Integrations page and query its data through Ask Coffee.
+- [Connecting your Zoom account](https://help.coffee.ai/en/articles/11917001-connecting-your-zoom-account.md): Connect your Zoom account to Coffee to ensure the meeting note taker joins your Zoom calls automatically without manual host admission.
+- [Integrating Salesforce to Coffee](https://help.coffee.ai/en/articles/11976672-integrating-salesforce-to-coffee.md): Connect Salesforce to Coffee to sync person, company and deal data.
+- [Integrating HubSpot to Coffee](https://help.coffee.ai/en/articles/11976732-integrating-hubspot-to-coffee.md): Connect Coffee with HubSpot to sync meeting person company and deal data.
+- [Integrating Coffee to Slack](https://help.coffee.ai/en/articles/12025607-integrating-coffee-to-slack.md): Our Slack app brings the power of Coffee directly into your workspace, so you never miss important updates or to-dos.
+- [Using Coffee with ChatGPT](https://help.coffee.ai/en/articles/12123234-using-coffee-with-chatgpt.md): Connect Coffee to ChatGPT using the Coffee MCP server to ask questions about your pipeline, deals, and customer activity.
+- [Connecting Coffee to Claude.ai](https://help.coffee.ai/en/articles/12566750-connecting-coffee-to-claude-ai.md): Learn how to connect Coffee to Claude using MCP and start querying your Coffee data in any Claude chat.
+- [Integrating Coffee with Zapier](https://help.coffee.ai/en/articles/12232619-integrating-coffee-with-zapier.md): Easily connect Coffee with Zapier to automate workflows across Coffee and your favorite apps
+- [Grant admin consent when connecting your Microsoft account to Coffee](https://help.coffee.ai/en/articles/13176914-grant-admin-consent-when-connecting-your-microsoft-account-to-coffee.md): Learn how to approve Coffee’s Microsoft connection by granting admin consent in Microsoft Entra as a Global Admin.
+- [Integrating Coffee with Stripe](https://help.coffee.ai/en/articles/13482545-integrating-coffee-with-stripe.md): Connect Coffee to Stripe to import customers, map payments, and keep data in sync automatically.
+- [Integrating Mailchimp with Coffee](https://help.coffee.ai/en/articles/13575883-integrating-mailchimp-with-coffee.md): Connect Mailchimp to Coffee to automatically sync audiences and be able to send Coffee records to Mailchimp campaigns
+- [Using Coffee's Chrome plugin for LinkedIn](https://help.coffee.ai/en/articles/13871862-using-coffee-s-chrome-plugin-for-linkedin.md): Save contact and company information directly from LinkedIn to your Coffee workspace.
+
+## Admin, Billing, and Workspace
+
+- [Adding custom fields in Coffee](https://help.coffee.ai/en/articles/16191732-adding-custom-fields-in-coffee.md): Add, edit, and delete custom fields for People, Companies, and Deals
+- [Adding workspace domains](https://help.coffee.ai/en/articles/16263279-adding-workspace-domains.md): Add or remove email domains so teammates on related domains can join your workspace automatically, without an invite.
+- [Managing the reporting structure](https://help.coffee.ai/en/articles/16265784-managing-the-reporting-structure.md): Assign who each teammate reports to, so their manager can see their emails, meetings, notes, tasks, and open deals based on your visibility settings.
+- [Creating and using formula fields](https://help.coffee.ai/en/articles/16556036-creating-and-using-formula-fields.md): Build formula fields to calculate values automatically for people, companies, and deals in Coffee
+- [HIPAA support and BAAs](https://help.coffee.ai/en/articles/16649386-hipaa-support-and-baas.md): How Coffee supports HIPAA-compliant workflows and how to request a Business Associate Agreement \(BAA\).
+- [Changing your interface language](https://help.coffee.ai/en/articles/17189328-changing-your-interface-language.md): Change your Coffee language for your workspace or your own account, and see what Coffee translates.
+- [Adding or Modifying Your Email Signature](https://help.coffee.ai/en/articles/15140100-adding-or-modifying-your-email-signature.md): Set up a personalized email signature that automatically appears on emails sent from Coffee.
+- [Pricing and Billing](https://help.coffee.ai/en/articles/9757042-pricing-and-billing.md)
+- [Managing account settings](https://help.coffee.ai/en/articles/12515031-managing-account-settings.md): Edit your personal details and connect your favorite tools
+- [Roles and Permissions](https://help.coffee.ai/en/articles/12543771-roles-and-permissions.md): Understand what each role can access in Coffee.
+- [How to change your subscription plan](https://help.coffee.ai/en/articles/13025878-how-to-change-your-subscription-plan.md): Learn how to upgrade or downgrade your Coffee plan
+- [Managing notification preferences](https://help.coffee.ai/en/articles/13146120-managing-notification-preferences.md): Choose which updates you get by App, Email, or Slack, and manage alerts from the notification bell.
+- [How to cancel my Coffee account](https://help.coffee.ai/en/articles/13451446-how-to-cancel-my-coffee-account.md): Learn how to cancel your Coffee account, what happens after cancellation, and how integrations are handled.
+- [Changing your workspace name](https://help.coffee.ai/en/articles/14117955-changing-your-workspace-name.md): Learn how to update your workspace name in Coffee.
+- [Changing your profile name or photo](https://help.coffee.ai/en/articles/14117986-changing-your-profile-name-or-photo.md): Personalize how you appear in Coffee
+- [Switching between dark and light mode](https://help.coffee.ai/en/articles/14190106-switching-between-dark-and-light-mode.md): Learn how to switch between dark or light mode in Coffee to reduce eye strain and customize your workspace interface.
+- [How to delete my workspace and data](https://help.coffee.ai/en/articles/14324691-how-to-delete-my-workspace-and-data.md): Learn how to permanently delete your Coffee workspace and all associated data, including subscription cancellation and data retention details.
+- [Setting your fiscal year](https://help.coffee.ai/en/articles/14491605-setting-your-fiscal-year.md): Learn how to set your fiscal year in Coffee to ensure accurate reporting periods and deal forecasting across your workspace.
+- [How does Coffee keep my data safe?](https://help.coffee.ai/en/articles/9756868-how-does-coffee-keep-my-data-safe.md): Learn how Coffee protects your data through SOC 2 compliance, bank-grade encryption, and secure local processing.
+- [Does Coffee send data to public AI engines, like ChatGPT?](https://help.coffee.ai/en/articles/9756875-does-coffee-send-data-to-public-ai-engines-like-chatgpt.md): Learn how Coffee protects your data.
+- [Managing visibility settings](https://help.coffee.ai/en/articles/13383811-managing-visibility-settings.md): Learn how to manage visibility settings for your emails, calendar, notes, and tasks within your Coffee workspace.
+- [Reviewing field changes](https://help.coffee.ai/en/articles/17629936-reviewing-field-changes.md): Find out who changed a field in Coffee, when, and where the change came from, then restore a previous value.
+
+## FAQs and Troubleshooting
+
+- [What is your SLA for responding to support messages?](https://help.coffee.ai/en/articles/12524202-what-is-your-sla-for-responding-to-support-messages.md): Learn how Coffee prioritizes and responds to your support requests based on their severity.
+- [Fixing Contact and Meeting Sync Issues](https://help.coffee.ai/en/articles/13146172-fixing-contact-and-meeting-sync-issues.md): Fix contact and meeting sync issues in Coffee by checking your email and calendar sync settings.
+- [Troubleshooting workspace login issues](https://help.coffee.ai/en/articles/13177020-troubleshooting-workspace-login-issues.md): Fix workspace login issues in Coffee by clearing cached session data and signing in again.
+- [Managing your favorites in Coffee](https://help.coffee.ai/en/articles/14754166-managing-your-favorites-in-coffee.md): Learn how to use favorites in Coffee to quickly access important people, companies, deals, and AI prompts from your sidebar.
